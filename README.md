@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?berkaypacal&color=green)
+(https://komarev.com/ghpvc/?berkaypacal&color=green)
 
 <!--
 **berkaypacal/berkaypacal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
